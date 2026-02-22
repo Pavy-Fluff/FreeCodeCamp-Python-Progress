@@ -1,3 +1,6 @@
+# FreeCodeCamp - Python Basics
+# Lesson: How to use print functions and variables at the same time
+
 my_integer_variable = 10 # integer data type
 print('integer:', my_integer_variable) # integer: 10
 
