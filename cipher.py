@@ -1,2 +1,0 @@
-name = "Pavy"
-alphabeth = "abcdefghijklmnopqrstuvwxyz"

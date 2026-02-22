@@ -1,0 +1,2 @@
+name = "Pavy"
+alphabet = "abcdefghijklmnopqrstuvwxyz"
