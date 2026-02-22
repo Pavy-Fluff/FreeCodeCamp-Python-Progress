@@ -1,3 +1,6 @@
+# FreeCodeCamp - Python Basics
+# Lesson: How to identify what data type is each variable
+
 my_integer_variable = 10
 print(type(my_integer_variable)) # <class 'int'>
 
