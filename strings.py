@@ -38,7 +38,7 @@ print("g" in newcomer) # False
 # We can use the function len() to figure out how many characters we have in a string, for example
 
 new_comer_2 = "Hello world"
-print(len(new_comer)) # 11
+print(len(new_comer_2)) # 11
 
 # Each character in a string has a number, it starts from 0
 
