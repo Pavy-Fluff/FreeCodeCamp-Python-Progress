@@ -8,3 +8,5 @@ Also i really like eating, but i need to make money to eat, so... I really like 
 ## Goal: To get money by using technology!
 
 ## My rule: Humbleness.
+
+### Python lessons completed 19/514
