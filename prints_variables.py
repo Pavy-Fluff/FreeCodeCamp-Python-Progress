@@ -29,7 +29,7 @@ my_list = [16, 'Hello world!', 8.92, True] # list data type
 print('list:', my_list) # list: [16, Hello world!, 8.92, True]
 
 my_none_variable = None # data type's gone.
-print('data type:'my_none_variable) # Data type: None
+print('data type:', my_none_variable) # Data type: None
 
 # We can figure out what type of variable data type is by typing "type()" for example:
 
