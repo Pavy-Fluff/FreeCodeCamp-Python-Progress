@@ -16,7 +16,7 @@ print('boolean:', my_boolean_variable) # boolean: True
 my_set_variable = {4, 6 ,7, 2} # set data type
 print('set:', my_set_variable) # set: {4, 6, 7, 2}
 
-my_dictionary_variable = {'name':,'Pavy', 'age': 16} # dictionary data type
+my_dictionary_variable = {'name':'Pavy', 'age': 16} # dictionary data type
 print('dictionary:', my_dictionary_variable) # dictionary: {name: Pavy, age: 16}
 
 my_tuple_variable = (4, 7, 1) # tuple data type
