@@ -172,5 +172,5 @@ print(abs_number) # 4
 result_exponentiation = pow(4, 8)
 print(result_exponentiation) # 4^8 65536
 
-result_exponentiation_modulo = pow(4,8,5)
+result_exponentiation_modulo = pow(4, 8, 5)
 print(result_exponentiation_modulo) # 1
