@@ -6,7 +6,7 @@ age = 16
 position = "Home"
 salary = 0
 learning = "IT"
-experience = 1 + ' year'
+experience = str(1) + ' year'
 hobby = "tapping"
 
 # Ugly way to present yourself
