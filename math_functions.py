@@ -170,7 +170,7 @@ print(abs_number) # 4
 # The built-in method, pow() function, which can be used for exponentiation only, or exponentiation and modulo operations.
 
 result_exponentiation = pow(4, 8)
-print(result_exponentiation) # 4^8 65536
+print(result_exponentiation) # 65536
 
 result_exponentiation_modulo = pow(4, 8, 5)
 print(result_exponentiation_modulo) # 1
