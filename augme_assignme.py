@@ -43,7 +43,7 @@ my_num_7 = 10
 my_num_7 **= 4
 print(my_num_7) # 10000
 
-# Now... you can also use these augmented assignments for strings as well! But not all of them! here are some examples
+# Now... you can also use these augmented assignments for strings as well! But not all of them! here are some examples:
 
 greeting = "Hello"
 greeting += " world!"
