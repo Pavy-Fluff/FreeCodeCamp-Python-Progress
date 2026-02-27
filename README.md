@@ -1,19 +1,19 @@
 # FreeCodeCamp-Python-Progress
-### This repository documents my structured learning of Python fundamentals.
-### All code, files, and folders in this repository are written by me as part of hands-on practice.
+### This repository shows my progress with learning Python
+### All code/files/folders in this repository are written by me.
 
-## Current focus: 
+## Current focus:
 -Learning Python via [FreeCodeCamp](https://www.freecodecamp.org/learn/python-v9/).
--Writing small programs to reinforce each concept
--Improving problem-solving and code readability
+-Writing code to understand concepts
+-Improving problem-solving and code understandings
 
-## Goal: 
-Build strong programming foundations in Python and gradually apply them to real-world problems and future opportunities.
+## Goal:
+To get income by using technology.
 
-## Principles:
--Consistency over speed.
--Understanding over memorization
--Humility and continuous improvement
+## My own rules:
+-Consistency
+-Understanding over memorizing
+-Humbleness
 
 ### Progress:
 Python steps completed 47/514
